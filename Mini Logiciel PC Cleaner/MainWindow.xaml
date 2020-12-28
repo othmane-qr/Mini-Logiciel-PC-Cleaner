@@ -1,0 +1,57 @@
+﻿<Window x:Class="Mini_Logiciel_PC_Cleaner.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Mini_Logiciel_PC_Cleaner"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800" ResizeMode="NoResize" WindowStartupLocation="CenterScreen">
+    <Window.Resources >
+        <FontFamily x:Key="FontAwesome"/>
+
+
+    </Window.Resources>
+    <Grid Margin="0,0,-0.333,0" RenderTransformOrigin="0.572,0.555">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="0*"/>
+            <ColumnDefinition Width="8*"/>
+            <ColumnDefinition Width="53*"/>
+        </Grid.ColumnDefinitions>
+        <Canvas HorizontalAlignment="Left" Margin="0,0,0,-0.333" Width="104" Background="#FFD5D2D2" Height="421" VerticalAlignment="Top" Grid.ColumnSpan="2">
+            <Image Height="80" Source="LOGOC.png" Stretch="Fill" Canvas.Top="10" Width="104"/>
+            <Button x:Name="btn_vue" Content="VUE D'ENSEMBLE" Canvas.Top="131" Width="104" Height="30" Background="#FF5BB0F5" FontWeight="Bold" FontFamily="Britannic Bold" BorderThickness="1" Click="Button_Click_3"/>
+            <Button x:Name="btn_analysemenu" Content="ANALYSER" Canvas.Top="166" Width="104" Height="30" Background="#FF5BB0F5" FontWeight="Bold" Click="Button_Click_2" FontFamily="Britannic Bold"/>
+            <Button x:Name="btn_histomenu" Content="HISTORIQUE&#xA;" Canvas.Top="201" Width="104" Height="30" Background="#FF5BB0F5" FontWeight="Bold" FontFamily="Britannic Bold" />
+            <Button x:Name="btn_options" Content="OPTIONS" Canvas.Top="236" Width="104" Height="30" Background="#FF5BB0F5" FontWeight="Bold" Click="Button_Click" FontFamily="Britannic Bold"/>
+            <Button x:Name="btn_site" Content="SITE WEB" Canvas.Left="19" Canvas.Top="323" Width="75" Click="Button_Click_1" Background="#FF5BB0F5" FontFamily="Britannic Bold"/>
+            <TextBlock Canvas.Left="10" TextWrapping="Wrap" Text="VERSION 1.0.0 " Canvas.Top="386" Height="25" Width="84"/>
+        </Canvas>
+        <Canvas x:Name="txt1" Grid.Column="2" Height="110" VerticalAlignment="Top" Width="689" Background="#FF5BB0F5" Margin="0,-2,1.667,0" >
+            <Button x:Name="btn_analyse" Content="Analyser" Canvas.Left="501" Canvas.Top="32" Width="147" Height="39" RenderTransformOrigin="0.5,0.5" FontSize="24" FontFamily="Britannic Bold" FontWeight="Bold" Click="Button_Click_2"/>
+            <Label x:Name="txt2" Content="Analyse du PC nécessaire " Canvas.Left="52" Canvas.Top="8" Height="38" Width="279" FontFamily="Britannic Bold" FontSize="22" FontWeight="Bold" />
+            <Label x:Name="txt3" Content="Espace a nettoyer : A déterminer par analyse" Canvas.Left="54" Canvas.Top="36" Width="320" Height="33" FontFamily="Britannic Bold" FontSize="14"/>
+            <Label x:Name="txt5" Content="Dernière analyse  : 12/01/2020" Canvas.Left="54" Canvas.Top="58" Width="320" Height="32" FontFamily="Britannic Bold" FontSize="14"/>
+            <Label x:Name="txt4" Content="Dernière MSJ       : 12/01/2020&#xD;&#xA; " Canvas.Left="54" Canvas.Top="78" Width="324" Height="32" FontFamily="Britannic Bold" FontSize="14"/>
+            <Button x:Name="btn_annuler" Content="Annuler" Canvas.Left="501" Canvas.Top="32" Width="147" Height="39" RenderTransformOrigin="0.5,0.5" FontSize="24" FontFamily="Britannic Bold" FontWeight="Bold" Click="btn_anul_Click" Visibility="Hidden"/>
+            <ProgressBar x:Name="bar_pro" Height="20" Canvas.Left="30" Canvas.Top="44" Width="387" ValueChanged="bar_pro_ValueChanged" Visibility="Hidden" Value="0" Minimum="0" Maximum="100" IsIndeterminate="False" Foreground="#FF000DFF"/>
+        </Canvas>
+        <Canvas x:Name="Canv_net" Grid.Column="2" HorizontalAlignment="Left" Height="141" Margin="53,167,0,0" VerticalAlignment="Top" Width="145" Background="#FF5BB0F5">
+            <Image Height="36" Canvas.Left="54" Source="sweeping (1).png" Stretch="Fill" Canvas.Top="44" Width="43"/>
+            <Button x:Name="btn_net" Content="NETTOYER" Canvas.Top="95" Width="104" Height="30" Background="#FF5BB0F5" FontWeight="Bold" Click="Button_Click_21" FontFamily="Britannic Bold" Canvas.Left="22"/>
+        </Canvas>
+        <Canvas  x:Name="canv_histo" Grid.Column="2" HorizontalAlignment="Left" Height="141" Margin="282,167,0,0" VerticalAlignment="Top" Width="145" Background="#FF5BB0F5">
+            <Image Height="34" Canvas.Left="54" Source="file.png" Stretch="Fill" Canvas.Top="42" Width="34"/>
+            <Button  x:Name="btn_histor" Content="HISTORIQUE" Canvas.Top="95" Width="104" Height="30" Background="#FF5BB0F5" FontWeight="Bold" Click="Button_Click_28" FontFamily="Britannic Bold" Canvas.Left="21"/>
+        </Canvas>
+        <Canvas x:Name="canv_metter" Grid.Column="2" HorizontalAlignment="Left" Height="141" Margin="511,167,0,0" VerticalAlignment="Top" Width="145" Background="#FF5BB0F5">
+            <Image Height="35" Canvas.Left="62" Source="updated.png" Stretch="Fill" Canvas.Top="40" Width="35"/>
+            <Button x:Name="btn_msj" Content="METTER A JOUR" Canvas.Top="94" Width="104" Height="30" Background="#FF5BB0F5" FontWeight="Bold" Click="Button_Click_55" FontFamily="Britannic Bold" Canvas.Left="23"/>
+        </Canvas>
+        <Canvas Grid.Column="2" HorizontalAlignment="Left" Height="69" Margin="0,352,0,-0.333" VerticalAlignment="Top" Width="689" Background="#FFD5D2D2">
+            <TextBlock x:Name="txt6" Canvas.Left="29" TextWrapping="Wrap" Canvas.Top="10" Height="49" Width="563" FontFamily="Britannic Bold" TextDecorations="{x:Null}"><Run Text="QR PC-CLEANER est un logiciel made in Maroc qui respect votre vie privée."/><LineBreak/><Run Text="C' est gratuit et ça le restera."/></TextBlock>
+        </Canvas>
+        <Label x:Name="txt_anlyse" Content="" Grid.Column="2" HorizontalAlignment="Left" Margin="53,113,0,0" VerticalAlignment="Top" Width="586" Height="35" FontFamily="Britannic Bold" FontSize="24"/>
+        <Label  x:Name="last" Grid.Column="2" HorizontalAlignment="Left" Margin="257,209,0,0" VerticalAlignment="Top"/>
+
+    </Grid>
+</Window>

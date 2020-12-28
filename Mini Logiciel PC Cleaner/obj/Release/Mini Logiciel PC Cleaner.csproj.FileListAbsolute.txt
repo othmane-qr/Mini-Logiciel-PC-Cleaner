@@ -1,0 +1,36 @@
+C:\Users\Administrateur\Desktop\Mini Logiciel PC Cleaner\Mini Logiciel PC Cleaner\bin\Release\Mini Logiciel PC Cleaner.exe.config
+C:\Users\Administrateur\Desktop\Mini Logiciel PC Cleaner\Mini Logiciel PC Cleaner\bin\Release\Mini Logiciel PC Cleaner.exe
+C:\Users\Administrateur\Desktop\Mini Logiciel PC Cleaner\Mini Logiciel PC Cleaner\bin\Release\Mini Logiciel PC Cleaner.pdb
+C:\Users\Administrateur\Desktop\Mini Logiciel PC Cleaner\Mini Logiciel PC Cleaner\bin\Release\FontAwesome.WPF.dll
+C:\Users\Administrateur\Desktop\Mini Logiciel PC Cleaner\Mini Logiciel PC Cleaner\bin\Release\FontAwesome.WPF.xml
+C:\Users\Administrateur\Desktop\Mini Logiciel PC Cleaner\Mini Logiciel PC Cleaner\obj\Release\Mini Logiciel PC Cleaner.csprojAssemblyReference.cache
+C:\Users\Administrateur\Desktop\Mini Logiciel PC Cleaner\Mini Logiciel PC Cleaner\obj\Release\MainWindow.g.cs
+C:\Users\Administrateur\Desktop\Mini Logiciel PC Cleaner\Mini Logiciel PC Cleaner\obj\Release\App.g.cs
+C:\Users\Administrateur\Desktop\Mini Logiciel PC Cleaner\Mini Logiciel PC Cleaner\obj\Release\Mini Logiciel PC Cleaner_MarkupCompile.cache
+C:\Users\Administrateur\Desktop\Mini Logiciel PC Cleaner\Mini Logiciel PC Cleaner\obj\Release\Mini Logiciel PC Cleaner_MarkupCompile.lref
+C:\Users\Administrateur\Desktop\Mini Logiciel PC Cleaner\Mini Logiciel PC Cleaner\obj\Release\MainWindow.baml
+C:\Users\Administrateur\Desktop\Mini Logiciel PC Cleaner\Mini Logiciel PC Cleaner\obj\Release\Mini Logiciel PC Cleaner.g.resources
+C:\Users\Administrateur\Desktop\Mini Logiciel PC Cleaner\Mini Logiciel PC Cleaner\obj\Release\Mini_Logiciel_PC_Cleaner.Properties.Resources.resources
+C:\Users\Administrateur\Desktop\Mini Logiciel PC Cleaner\Mini Logiciel PC Cleaner\obj\Release\Mini Logiciel PC Cleaner.csproj.GenerateResource.cache
+C:\Users\Administrateur\Desktop\Mini Logiciel PC Cleaner\Mini Logiciel PC Cleaner\obj\Release\Mini Logiciel PC Cleaner.csproj.CoreCompileInputs.cache
+C:\Users\Administrateur\Desktop\Mini Logiciel PC Cleaner\Mini Logiciel PC Cleaner\obj\Release\Mini Logiciel PC Cleaner.csproj.CopyComplete
+C:\Users\Administrateur\Desktop\Mini Logiciel PC Cleaner\Mini Logiciel PC Cleaner\obj\Release\Mini Logiciel PC Cleaner.exe
+C:\Users\Administrateur\Desktop\Mini Logiciel PC Cleaner\Mini Logiciel PC Cleaner\obj\Release\Mini Logiciel PC Cleaner.pdb
+C:\Users\Administrateur\Desktop\Mini Logiciel PC Cleaner\Mini-Logiciel-PC-Cleaner\Mini Logiciel PC Cleaner\bin\Release\Mini Logiciel PC Cleaner.exe.config
+C:\Users\Administrateur\Desktop\Mini Logiciel PC Cleaner\Mini-Logiciel-PC-Cleaner\Mini Logiciel PC Cleaner\bin\Release\Mini Logiciel PC Cleaner.exe
+C:\Users\Administrateur\Desktop\Mini Logiciel PC Cleaner\Mini-Logiciel-PC-Cleaner\Mini Logiciel PC Cleaner\bin\Release\Mini Logiciel PC Cleaner.pdb
+C:\Users\Administrateur\Desktop\Mini Logiciel PC Cleaner\Mini-Logiciel-PC-Cleaner\Mini Logiciel PC Cleaner\bin\Release\FontAwesome.WPF.dll
+C:\Users\Administrateur\Desktop\Mini Logiciel PC Cleaner\Mini-Logiciel-PC-Cleaner\Mini Logiciel PC Cleaner\bin\Release\FontAwesome.WPF.xml
+C:\Users\Administrateur\Desktop\Mini Logiciel PC Cleaner\Mini-Logiciel-PC-Cleaner\Mini Logiciel PC Cleaner\obj\Release\Mini Logiciel PC Cleaner.csprojAssemblyReference.cache
+C:\Users\Administrateur\Desktop\Mini Logiciel PC Cleaner\Mini-Logiciel-PC-Cleaner\Mini Logiciel PC Cleaner\obj\Release\MainWindow.g.cs
+C:\Users\Administrateur\Desktop\Mini Logiciel PC Cleaner\Mini-Logiciel-PC-Cleaner\Mini Logiciel PC Cleaner\obj\Release\App.g.cs
+C:\Users\Administrateur\Desktop\Mini Logiciel PC Cleaner\Mini-Logiciel-PC-Cleaner\Mini Logiciel PC Cleaner\obj\Release\Mini Logiciel PC Cleaner_MarkupCompile.cache
+C:\Users\Administrateur\Desktop\Mini Logiciel PC Cleaner\Mini-Logiciel-PC-Cleaner\Mini Logiciel PC Cleaner\obj\Release\Mini Logiciel PC Cleaner_MarkupCompile.lref
+C:\Users\Administrateur\Desktop\Mini Logiciel PC Cleaner\Mini-Logiciel-PC-Cleaner\Mini Logiciel PC Cleaner\obj\Release\MainWindow.baml
+C:\Users\Administrateur\Desktop\Mini Logiciel PC Cleaner\Mini-Logiciel-PC-Cleaner\Mini Logiciel PC Cleaner\obj\Release\Mini Logiciel PC Cleaner.g.resources
+C:\Users\Administrateur\Desktop\Mini Logiciel PC Cleaner\Mini-Logiciel-PC-Cleaner\Mini Logiciel PC Cleaner\obj\Release\Mini_Logiciel_PC_Cleaner.Properties.Resources.resources
+C:\Users\Administrateur\Desktop\Mini Logiciel PC Cleaner\Mini-Logiciel-PC-Cleaner\Mini Logiciel PC Cleaner\obj\Release\Mini Logiciel PC Cleaner.csproj.GenerateResource.cache
+C:\Users\Administrateur\Desktop\Mini Logiciel PC Cleaner\Mini-Logiciel-PC-Cleaner\Mini Logiciel PC Cleaner\obj\Release\Mini Logiciel PC Cleaner.csproj.CoreCompileInputs.cache
+C:\Users\Administrateur\Desktop\Mini Logiciel PC Cleaner\Mini-Logiciel-PC-Cleaner\Mini Logiciel PC Cleaner\obj\Release\Mini Logiciel PC Cleaner.csproj.CopyComplete
+C:\Users\Administrateur\Desktop\Mini Logiciel PC Cleaner\Mini-Logiciel-PC-Cleaner\Mini Logiciel PC Cleaner\obj\Release\Mini Logiciel PC Cleaner.exe
+C:\Users\Administrateur\Desktop\Mini Logiciel PC Cleaner\Mini-Logiciel-PC-Cleaner\Mini Logiciel PC Cleaner\obj\Release\Mini Logiciel PC Cleaner.pdb
